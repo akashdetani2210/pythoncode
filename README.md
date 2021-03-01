@@ -31,3 +31,7 @@ Env| GCP Project
 DAGS should be created in [`dags`](./dags) diretory using the following convention:
 
 - `dags/<project-name>/my_dag.py`
+
+# Related
+- [Composer Concourse Module]( https://github.com/tempuslabs/autoform-modules/tree/master/modules/composite/concourse/cloud-composer-pipeline)
+- [rp-iac](https://github.com/tempuslabs/rp-iac)
